@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Thierry
+- prénom : Bryan
+- URL Netlify : https://nimble-melomakarona-e83bbe.netlify.app/
 
 # Travail
 
